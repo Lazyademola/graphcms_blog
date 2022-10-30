@@ -12,7 +12,7 @@ export default function Home({ posts }) {
   return (
     <div className="container mx-auto px-10 mb-8">
       <Head>
-        <title>CMS Project</title>
+        <title>NewBreed</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <FeaturedPosts/>
