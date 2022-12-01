@@ -19,7 +19,7 @@ const Header = () => {
     <div className='container mx-auto px-8 mb-8'>
         <div className='border-b w-full inline-block border-blue-400 py-8'>
             <div className='md:float-left '>
-                <Link href="/">
+                <Link href={`https://churchlegit.vercel.app/`}>
                     <div>
                     <span className='cursor-pointer font-bold text-2xl text-white'>
                         <Image
